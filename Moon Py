@@ -9,45 +9,33 @@
       font-family: 'Arial', sans-serif;
       margin: 20px;
     }
-
     h2 {
       color: #4285f4;
     }
-
     p {
       margin-bottom: 20px;
     }
-
     ul {
       list-style-type: none;
       padding: 0;
     }
-
     li {
       margin-bottom: 10px;
     }
   </style>
 </head>
 <body>
-
   <h1>Visual Art Techniques</h1>
-
   <h2>1. Painting</h2>
   <p>Canvas, Palette, Brushstroke, Medium</p>
-
   <h2>2. Drawing</h2>
   <p>Sketch, Contour, Shading</p>
-
   <h2>3. Photography</h2>
   <p>Shutter Speed, Aperture, Composition</p>
-
   <h2>4. Graphics</h2>
   <p>Vector Graphics, Raster Graphics, Typography</p>
-
   <h2>5. Digital Art</h2>
   <p>Pixel Art, Digital Painting, Rasterization</p>
-
   <!-- Add more sections as needed -->
-
 </body>
 </html>
